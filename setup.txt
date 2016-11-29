@@ -1,0 +1,8 @@
+conda create --name okcupid_dataset numpy scipy pandas scikit-learn matplotlib jupyter
+activate okcupid_dataset
+
+datasets
+https://github.com/rudeboybert/JSE_OkCupid/blob/master/profiles.csv.zip
+save to ../okcupid_dataset/okcupid_dataset_data/
+
+jupyter notebook
